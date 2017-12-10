@@ -2,10 +2,10 @@ Mono path[0] = 'D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data/Managed'
 Mono path[1] = 'D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data/Mono'
 Mono config path = 'D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data/Mono/etc'
 PlayerConnection initialized from D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55380
-Multi-casting "[IP] 192.168.0.104 [Port] 55380 [Flags] 2 [Guid] 93977626 [EditorId] 3087386013 [Version] 1048832 [Id] WindowsPlayer(LAPTOP-QIM7HMTP) [Debug] 0" to [225.0.0.222:54997]...
-Started listening to [0.0.0.0:55380]
-PlayerConnection already initialized - listening to [0.0.0.0:55380]
+PlayerConnection initialized network socket : 0.0.0.0 55408
+Multi-casting "[IP] 192.168.0.104 [Port] 55408 [Flags] 2 [Guid] 3543474108 [EditorId] 1327397444 [Version] 1048832 [Id] WindowsPlayer(LAPTOP-QIM7HMTP) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55408]
+PlayerConnection already initialized - listening to [0.0.0.0:55408]
 Player data archive not found at `D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.3p2 (b3d7a6428558)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -37,7 +37,7 @@ Platform assembly: D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\pb_Stl.dll (
 Loading D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\pb_Stl.dll into Unity Child Domain
 Platform assembly: D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\Poly2Tri.dll (this message is harmless)
 Loading D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\Poly2Tri.dll into Unity Child Domain
-- Completed reload, in  0.656 seconds
+- Completed reload, in  0.364 seconds
 Platform assembly: D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
@@ -45,17 +45,11 @@ desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 30.009680 ms
-Scene 'InfernoTokastu1' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
-To add a scene to the build settings use the menu File->Build Settings...
-UnityEngine.SceneManagement.SceneManager:LoadSceneAsyncNameIndexInternal(String, Int32, Boolean, Boolean)
-UnityEngine.SceneManagement.SceneManager:LoadScene(String, LoadSceneMode) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\SceneManagerBindings.gen.cs:108)
-UnityEngine.SceneManagement.SceneManager:LoadScene(String) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\SceneManagerBindings.gen.cs:103)
-SceneManeger:Start() (at D:\UNEB\PROGRAMAÇÃO\TheBug\Assets\Scripts\SceneManeger.cs:13)
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1744)
 
-[C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp line 140] 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/SceneManagerBindings.gen.cs Line: 108)
-
+UnloadTime: 4.120411 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2338 -> priority: 1 
-  Thread -> id: 3d48 -> priority: 1 
+  Thread -> id: 4964 -> priority: 1 
+  Thread -> id: d80 -> priority: 1 

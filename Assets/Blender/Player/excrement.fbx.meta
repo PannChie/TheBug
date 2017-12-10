@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: add8540eef991bc48ab98a51b68ca219
+timeCreated: 1512884626
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Empty_array
+    100004: Empty_smooth_stretch1
+    100006: Empty_smooth_twist1
+    100008: Empty_smooth_twist2
+    100010: //RootNode
+    100012: excrement_banana
+    100014: excrement_banana_MeshPart0
+    100016: excrement_banana_MeshPart1
+    100018: excrement_banana_MeshPart2
+    100020: excrement_banana_MeshPart3
+    100022: excrement_roll
+    100024: excrement_roll_MeshPart0
+    100026: excrement_roll_MeshPart1
+    100028: excrement_roll_MeshPart10
+    100030: excrement_roll_MeshPart11
+    100032: excrement_roll_MeshPart2
+    100034: excrement_roll_MeshPart3
+    100036: excrement_roll_MeshPart4
+    100038: excrement_roll_MeshPart5
+    100040: excrement_roll_MeshPart6
+    100042: excrement_roll_MeshPart7
+    100044: excrement_roll_MeshPart8
+    100046: excrement_roll_MeshPart9
+    100048: setting_Empty
+    100050: setting_light_plane
+    100052: setting_Plane
+    100054: setting_Spot
+    400000: Camera
+    400002: Empty_array
+    400004: Empty_smooth_stretch1
+    400006: Empty_smooth_twist1
+    400008: Empty_smooth_twist2
+    400010: //RootNode
+    400012: excrement_banana
+    400014: excrement_banana_MeshPart0
+    400016: excrement_banana_MeshPart1
+    400018: excrement_banana_MeshPart2
+    400020: excrement_banana_MeshPart3
+    400022: excrement_roll
+    400024: excrement_roll_MeshPart0
+    400026: excrement_roll_MeshPart1
+    400028: excrement_roll_MeshPart10
+    400030: excrement_roll_MeshPart11
+    400032: excrement_roll_MeshPart2
+    400034: excrement_roll_MeshPart3
+    400036: excrement_roll_MeshPart4
+    400038: excrement_roll_MeshPart5
+    400040: excrement_roll_MeshPart6
+    400042: excrement_roll_MeshPart7
+    400044: excrement_roll_MeshPart8
+    400046: excrement_roll_MeshPart9
+    400048: setting_Empty
+    400050: setting_light_plane
+    400052: setting_Plane
+    400054: setting_Spot
+    2300000: excrement_banana_MeshPart0
+    2300002: excrement_banana_MeshPart1
+    2300004: excrement_banana_MeshPart2
+    2300006: excrement_banana_MeshPart3
+    2300008: excrement_roll_MeshPart0
+    2300010: excrement_roll_MeshPart1
+    2300012: excrement_roll_MeshPart10
+    2300014: excrement_roll_MeshPart11
+    2300016: excrement_roll_MeshPart2
+    2300018: excrement_roll_MeshPart3
+    2300020: excrement_roll_MeshPart4
+    2300022: excrement_roll_MeshPart5
+    2300024: excrement_roll_MeshPart6
+    2300026: excrement_roll_MeshPart7
+    2300028: excrement_roll_MeshPart8
+    2300030: excrement_roll_MeshPart9
+    2300032: setting_light_plane
+    2300034: setting_Plane
+    3300000: excrement_banana_MeshPart0
+    3300002: excrement_banana_MeshPart1
+    3300004: excrement_banana_MeshPart2
+    3300006: excrement_banana_MeshPart3
+    3300008: excrement_roll_MeshPart0
+    3300010: excrement_roll_MeshPart1
+    3300012: excrement_roll_MeshPart10
+    3300014: excrement_roll_MeshPart11
+    3300016: excrement_roll_MeshPart2
+    3300018: excrement_roll_MeshPart3
+    3300020: excrement_roll_MeshPart4
+    3300022: excrement_roll_MeshPart5
+    3300024: excrement_roll_MeshPart6
+    3300026: excrement_roll_MeshPart7
+    3300028: excrement_roll_MeshPart8
+    3300030: excrement_roll_MeshPart9
+    3300032: setting_light_plane
+    3300034: setting_Plane
+    4300000: excrement_banana_MeshPart0
+    4300002: excrement_banana_MeshPart1
+    4300004: excrement_banana_MeshPart2
+    4300006: excrement_banana_MeshPart3
+    4300008: setting_light_plane
+    4300010: setting_Plane
+    4300012: excrement_roll_MeshPart0
+    4300014: excrement_roll_MeshPart1
+    4300016: excrement_roll_MeshPart2
+    4300018: excrement_roll_MeshPart3
+    4300020: excrement_roll_MeshPart4
+    4300022: excrement_roll_MeshPart5
+    4300024: excrement_roll_MeshPart6
+    4300026: excrement_roll_MeshPart7
+    4300028: excrement_roll_MeshPart8
+    4300030: excrement_roll_MeshPart9
+    4300032: excrement_roll_MeshPart10
+    4300034: excrement_roll_MeshPart11
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.9999999
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

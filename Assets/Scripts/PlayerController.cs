@@ -18,12 +18,10 @@ public class PlayerController : MonoBehaviour
 	{
 		if (Input.GetKeyDown (KeyCode.Space)) { // And if the player press Space
 
-				rb.velocity = new Vector3 (0f, 5f, 0f); // The sphere will jump
-				onGround = false; // The sphere can't jump if it's in the air
-			}
-
+			rb.velocity = new Vector3 (0f, 5f, 0f); // The sphere will jump
+			onGround = false; // The sphere can't jump if it's in the air
 		}
-
+	}
 
 	void FixedUpdate ()
 	{
