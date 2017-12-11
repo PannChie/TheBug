@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TeleportTorii1 : MonoBehaviour {
+public class TeleportTorii : MonoBehaviour {
+
 
 	// Use this for initialization
 	void Start () {
@@ -15,7 +16,7 @@ public class TeleportTorii1 : MonoBehaviour {
 		
 	}
 
-	void OnTrigger (Collider hit){
+	void OnTriggerEnter (Collider hit){
 
 		if (hit.tag == "Player") {
 
