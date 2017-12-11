@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 9b00798a722d344409921c416a0d16d2
+timeCreated: 1512959357
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera.001
+    100004: Sun
+    100006: //RootNode
+    100008: tatami
+    100010: tatami.001
+    100012: tatami.002
+    100014: tatami.003
+    100016: tatami.004
+    100018: tatami.005
+    100020: tatami.006
+    100022: tatami.007
+    100024: tatami.008
+    100026: tatami.009
+    100028: tatami.010
+    100030: tatami.011
+    100032: tatami.012
+    100034: tatami.013
+    100036: tatami.014
+    100038: tatami.015
+    100040: tatami.016
+    100042: tatami.017
+    100044: tatami.019
+    400000: Camera
+    400002: Camera.001
+    400004: Sun
+    400006: //RootNode
+    400008: tatami
+    400010: tatami.001
+    400012: tatami.002
+    400014: tatami.003
+    400016: tatami.004
+    400018: tatami.005
+    400020: tatami.006
+    400022: tatami.007
+    400024: tatami.008
+    400026: tatami.009
+    400028: tatami.010
+    400030: tatami.011
+    400032: tatami.012
+    400034: tatami.013
+    400036: tatami.014
+    400038: tatami.015
+    400040: tatami.016
+    400042: tatami.017
+    400044: tatami.019
+    2300000: tatami
+    2300002: tatami.001
+    2300004: tatami.002
+    2300006: tatami.003
+    2300008: tatami.004
+    2300010: tatami.005
+    2300012: tatami.006
+    2300014: tatami.007
+    2300016: tatami.008
+    2300018: tatami.009
+    2300020: tatami.010
+    2300022: tatami.011
+    2300024: tatami.012
+    2300026: tatami.013
+    2300028: tatami.014
+    2300030: tatami.015
+    2300032: tatami.016
+    2300034: tatami.017
+    2300036: tatami.019
+    3300000: tatami
+    3300002: tatami.001
+    3300004: tatami.002
+    3300006: tatami.003
+    3300008: tatami.004
+    3300010: tatami.005
+    3300012: tatami.006
+    3300014: tatami.007
+    3300016: tatami.008
+    3300018: tatami.009
+    3300020: tatami.010
+    3300022: tatami.011
+    3300024: tatami.012
+    3300026: tatami.013
+    3300028: tatami.014
+    3300030: tatami.015
+    3300032: tatami.016
+    3300034: tatami.017
+    3300036: tatami.019
+    4300000: tatami.019
+    4300002: tatami.017
+    4300004: tatami.016
+    4300006: tatami.015
+    4300008: tatami.014
+    4300010: tatami.013
+    4300012: tatami.012
+    4300014: tatami.011
+    4300016: tatami.010
+    4300018: tatami.009
+    4300020: tatami.008
+    4300022: tatami.007
+    4300024: tatami.006
+    4300026: tatami.005
+    4300028: tatami.004
+    4300030: tatami.003
+    4300032: tatami.002
+    4300034: tatami.001
+    4300036: tatami
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
