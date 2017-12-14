@@ -2,10 +2,10 @@ Mono path[0] = 'D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data/Managed'
 Mono path[1] = 'D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data/Mono'
 Mono config path = 'D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data/Mono/etc'
 PlayerConnection initialized from D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55408
-Multi-casting "[IP] 192.168.0.104 [Port] 55408 [Flags] 2 [Guid] 3543474108 [EditorId] 1327397444 [Version] 1048832 [Id] WindowsPlayer(LAPTOP-QIM7HMTP) [Debug] 0" to [225.0.0.222:54997]...
-Started listening to [0.0.0.0:55408]
-PlayerConnection already initialized - listening to [0.0.0.0:55408]
+PlayerConnection initialized network socket : 0.0.0.0 55040
+Multi-casting "[IP] 192.168.0.104 [Port] 55040 [Flags] 2 [Guid] 1097776534 [EditorId] 1889968939 [Version] 1048832 [Id] WindowsPlayer(LAPTOP-QIM7HMTP) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55040]
+PlayerConnection already initialized - listening to [0.0.0.0:55040]
 Player data archive not found at `D:/UNEB/PROGRAMAÇÃO/TheBug/TheBug_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.3p2 (b3d7a6428558)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -37,7 +37,7 @@ Platform assembly: D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\pb_Stl.dll (
 Loading D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\pb_Stl.dll into Unity Child Domain
 Platform assembly: D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\Poly2Tri.dll (this message is harmless)
 Loading D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\Poly2Tri.dll into Unity Child Domain
-- Completed reload, in  0.364 seconds
+- Completed reload, in  0.423 seconds
 Platform assembly: D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\UNEB\PROGRAMAÇÃO\TheBug\TheBug_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
@@ -45,11 +45,7 @@ desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1744)
-
-UnloadTime: 4.120411 ms
+UnloadTime: 1.662720 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 4964 -> priority: 1 
-  Thread -> id: d80 -> priority: 1 
+  Thread -> id: 264c -> priority: 1 
+  Thread -> id: 3b98 -> priority: 1 

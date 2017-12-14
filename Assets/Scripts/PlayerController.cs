@@ -7,20 +7,10 @@ public class PlayerController : MonoBehaviour
 {
 	public float speed;
 	private Rigidbody rb;
-	public bool onGround; // Sphere grounded or not
 
 	void Start ()
 	{
 		rb = GetComponent<Rigidbody>();
-	}
-
-	private void Update()
-	{
-		if (Input.GetKeyDown (KeyCode.Space)) { // And if the player press Space
-
-			rb.velocity = new Vector3 (0f, 5f, 0f); // The sphere will jump
-			onGround = false; // The sphere can't jump if it's in the air
-		}
 	}
 
 	void FixedUpdate ()

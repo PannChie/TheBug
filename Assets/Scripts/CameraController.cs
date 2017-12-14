@@ -4,18 +4,25 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class CameraController : MonoBehaviour {
+ 
+	public Transform Target;
+	public float cameraSpeed = 15;
+	public float zOffset = 22;
+	public bool smoothFollow = true;
 
-	public GameObject player;
-
-	private Vector3 offset;
-
-	void Start ()
+	void Update ()
 	{
-		offset = transform.position - player.transform.position;
-	}
+		if (Target) {
+			Vector3 newPos = transform.position;
+			newPos.x = Target.position.x;
+			newPos.z = Target.position.z - zOffset;
+		
 
-	void LateUpdate ()
-	{
-		transform.position = player.transform.position + offset;
+			if (!smoothFollow)
+				transform.position = newPos;
+			else
+				transform.position = Vector3.Lerp (transform.position, newPos, cameraSpeed * Time.deltaTime);
+		}
+
 	}
 }
