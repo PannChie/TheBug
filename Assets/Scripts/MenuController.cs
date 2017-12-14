@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class Menu : MonoBehaviour {
+public class MenuController : MonoBehaviour {
 	
 	//Recomendaram por o script na camera;
 	public Button startBotao; // botao start;
@@ -10,7 +10,7 @@ public class Menu : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		startBotao.onClick.AddListener (() => {SceneManager.LoadScene("RollABostaJogo"); }); //A referencia entre aspas é o nome da sua cena.
+		startBotao.onClick.AddListener (() => {SceneManager.LoadScene("EntradaInferno"); }); //A referencia entre aspas é o nome da sua cena.
 		quitBotao.onClick.AddListener (() => {Application.Quit();}); // paramertro pra sair do jogo, so funciona depois da build;
 	}
 

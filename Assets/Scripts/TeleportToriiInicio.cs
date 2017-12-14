@@ -20,7 +20,7 @@ public class TeleportToriiInicio : MonoBehaviour {
 
 		if (hit.tag == "Player") {
 
-			SceneManager.LoadScene (1);
+			SceneManager.LoadScene (2);
 		}
 	}
 }

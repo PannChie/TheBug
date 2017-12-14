@@ -7,12 +7,13 @@ public class InimigosController : MonoBehaviour {
 	public Transform Player;
 	private UnityEngine.AI.NavMeshAgent naveMesh;
 	private float DistanciaPlayer, DistanciaPoint;
-	public float DistanciaPercepcao = 30, DistanciaSeguir = 20, DistanciaAtacar = 2, VelocidadePasseio = 3, VelocidadePerseguicao = 6, TempoAtaque = 1.5f;
+	public float DistanciaPercepcao = 20, DistanciaSeguir = 10, DistanciaAtacar = 2, VelocidadePasseio = 3, VelocidadePerseguicao = 6, TempoAtaque = 1.5f;
 	private bool VendoPlayer;
 	public Transform [] DestinosAleatorios;
 	private int PointAtual;
 	private bool PerseguindoAlgo, contadorPerseguindoAlgo,atacandoAlgo;
 	private float cronometroDaPerseguicao,cronometroAtaque;
+
 	void Start (){
 		PointAtual = Random.Range (0, DestinosAleatorios.Length);
 		naveMesh = transform.GetComponent<UnityEngine.AI.NavMeshAgent> ();
@@ -20,6 +21,7 @@ public class InimigosController : MonoBehaviour {
 	void Update (){
 		DistanciaPlayer = Vector3.Distance(Player.transform.position,transform.position);
 		DistanciaPoint =  Vector3.Distance(DestinosAleatorios[PointAtual].transform.position,transform.position);
+
 		//============================== RAYCAST ===================================//
 		RaycastHit hit;
 		Vector3 deOnde = transform.position;

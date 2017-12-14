@@ -20,7 +20,7 @@ public class TeleportToriiRetorno : MonoBehaviour {
 
 		if (hit.tag == "Player") {
 
-			SceneManager.LoadScene (0);
+			SceneManager.LoadScene (1);
 		}
 	}
 }
