@@ -22,5 +22,6 @@ public class TeleportToriiRetorno : MonoBehaviour {
 
 			SceneManager.LoadScene (1);
 		}
+
 	}
 }

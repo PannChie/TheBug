@@ -18,9 +18,10 @@ public class TeleportToriiInicio : MonoBehaviour {
 
 	void OnTriggerEnter (Collider hit){
 
-		if (hit.tag == "Player") {
+		if (hit.tag == "Player, Inimigo") {
 
 			SceneManager.LoadScene (2);
 		}
+			
 	}
 }
